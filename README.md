@@ -1,0 +1,1 @@
+This repository demonstrates a common error in R when reading CSV files: the absence of error handling for the case when the file does not exist. The `bug.r` file shows the problematic code.  The improved, more robust version is in `bugSolution.r`.  This example highlights the importance of graceful error handling for production-ready code.
